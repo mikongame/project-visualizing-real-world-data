@@ -46,7 +46,7 @@ The following deliverables were pushed to our Github repo for this chapter.
 ## Datasets
  
 * The datasets we'll use are 4 csv files: pikalyticsDF_clean, cointaining the cleaned information resulting from using pikalytics API; wikidexDF_clean, that includes cleaned information obtained from wikidex web page; Combined_DF_clean, that combines the previous datasets; and outliers_clean, which states those pokemon that are very rarely used in VGC 2020. It is to be noted that we we'll focuse on the 2 latest.
-* If we have time enough we will srcape information from various webpages so as to create a new dataset joining and listing the top 5 contestants' teams of masters category during the 12 years the championship has been organised.
+* If we have time enough we will use Parsehub to scrape information from Pokémon World Championships official results on pokemon.com from 2014 to 2019 so as to create a new dataset joining and listing the top 8 contestants' teams of masters, senior and junior categories.
   
 <a name="workflow"></a>
 
