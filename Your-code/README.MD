@@ -54,15 +54,21 @@ The following deliverables were pushed to our Github repo for this chapter.
 
 The Video Game Championships (VGC) is a yearly tournament, created by The Pokemon Company International in order to give video game players a large-scale ingame competition, similar to what they have already for the Trading Card Game. The rules, however, are very different from the standard metagame people at Smogon reated.
 
-<img src="https://victoryroad.es/wp-content/uploads/2019/03/VG-Championships-Logo.png" alt="Regionals" width="100" align="center"/>
-
+<p align="center">
+<img src="https://victoryroad.es/wp-content/uploads/2019/03/VG-Championships-Logo.png" alt="Regionals" width="100"/>
+</p>
+    
 The biggest change between the standard Smogon rules and the VGC rules is that battles are primarily doubles instead of singles. Because of time constraints involved with hosting large-scale tournaments in a single day, doubles was chosen for the faster paced metagame and the inability to stall due to the number of attacks being thrown around each turn. Doubles allows for certain strategies such as Trick Room and Gravity to be more effective, and people going into the VGC with a singles mindset will be unprepared for the myriad of strategies being used.
 
-<img src="https://victoryroadvgc.com/wp-content/uploads/2019/03/INTERNATIONAL-LOGO-FINAL-279x300.png" alt="Internationals" width="100" align="center"/>
+<p align="center">
+<img src="https://victoryroadvgc.com/wp-content/uploads/2019/03/INTERNATIONAL-LOGO-FINAL-279x300.png" alt="Internationals" width="100"/>
+</p>
 
 Another major difference is the level 50 limit, which helps certain Pokemon do things they normally cannot do at level 100. Timid Max Speed Scarf Abomasnow normally hits 360 Speed at level 100; a +Speed Azelf will outspeed Scarf Abomasnow by 1 point. However, at level 50, the same Abomasnow will hit 184 Speed while the same Azelf will only hit 183 Speed. This is big as Abomasnow can now do damage to Azelf before Azelf can even move, something normally not possible in the standard metagame.
 
-<img src="https://victoryroadvgc.com/wp-content/uploads/2019/03/Worlds-Logo-300x281.png" alt="World championship" width="100" align="center"/>
+<p align="center">
+<img src="https://victoryroadvgc.com/wp-content/uploads/2019/03/Worlds-Logo-300x281.png" alt="World championship" width="100"/>
+</p>
 
 Item clause is another change standard players may not be familiar with: each Pokemon must have a different item from one another, which forces players to be creative when building a team. While creating a team, the creator has to keep this in mind, as one cannot just stick Leftovers or Life Orb on every Pokemon and call it a day. There is a large number of usable items, so finding an item for a certain purpose is not incredibly difficult; the problem arises when you have two similar Pokemon that would love to have the same item, so finding a useful substitute can be difficult.
 
