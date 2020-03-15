@@ -45,10 +45,26 @@ The following deliverables were pushed to our Github repo for this chapter.
 
 ## Datasets
  
-* The datasets we'll use are 4 csv files: pikalyticsDF_clean, cointaining the cleaned information resulting from using pikalytics API; wikidexDF_clean, that includes cleaned information obtained from wikidex web page; Combined_DF_clean, that combines the previous datasets; and outliers_clean, which states those pokemon that are very rarely used in VGC 2020. It is to be noted that we we'll focuse on the 2 latest.
+* The datasets we'll use are 4 csv files: pikalyticsDF_clean, cointaining the cleaned information resulting from using pikalytics API; wikidexDF_clean, that includes cleaned information obtained from wikidex web page; Combined_DF_clean, that combines the previous datasets; and outliers_clean, which states those pokemon that are very rarely used in VGC 2020.
 * If we have time enough we will use Parsehub to scrape information from Pokémon World Championships official results on pokemon.com from 2014 to 2019 so as to create a new dataset joining and listing the top 8 contestants' teams of masters, senior and junior categories.
   
 <a name="workflow"></a>
+
+## Introduction
+
+The Video Game Championships (VGC) is a yearly tournament, created by The Pokemon Company International in order to give video game players a large-scale ingame competition, similar to what they have already for the Trading Card Game. The rules, however, are very different from the standard metagame we have created here at Smogon.
+
+<img src="https://victoryroad.es/wp-content/uploads/2019/03/VG-Championships-Logo.png" alt="Regionals" width="100" align="center"/>
+
+The biggest change between the Smogon standard and the VGC rules is that battles are primarily doubles instead of singles. Because of time constraints involved with hosting large-scale tournaments in a single day, doubles was chosen for the faster paced metagame and the inability to stall due to the number of attacks being thrown around each turn. Doubles allows for certain strategies such as Trick Room and Gravity to be more effective, and people going into the VGC with a singles mindset will be unprepared for the myriad of strategies being used.
+
+<img src="https://victoryroadvgc.com/wp-content/uploads/2019/03/INTERNATIONAL-LOGO-FINAL-279x300.png" alt="Internationals" width="100" align="center"/>
+
+Another major difference is the level 50 limit, which helps certain Pokemon do things they normally cannot do at level 100. Timid Max Speed Scarf Abomasnow normally hits 360 Speed at level 100; a +Speed Azelf will outspeed Scarf Abomasnow by 1 point. However, at level 50, the same Abomasnow will hit 184 Speed while the same Azelf will only hit 183 Speed. This is big as Abomasnow can now do damage to Azelf before Azelf can even move, something normally not possible in the standard Smogon metagame.
+
+<img src="https://victoryroadvgc.com/wp-content/uploads/2019/03/Worlds-Logo-300x281.png" alt="World championship" width="100" align="center"/>
+
+Item clause is another change standard players may not be familiar with: each Pokemon must have a different item from one another, which forces players to be creative when building a team. While creating a team, the creator has to keep this in mind, as one cannot just stick Leftovers or Life Orb on every Pokemon and call it a day. There is a large number of usable items, so finding an item for a certain purpose is not incredibly difficult; the problem arises when you have two similar Pokemon that would love to have the same item, so finding a useful substitute can be difficult.
 
 ## Workflow
 
@@ -113,3 +129,7 @@ Among all outliers, there's just 2 that are not in this dataset because of havin
 Actually, all those data come from those Pokémon that are outliers among VGC 2020 used Pokémon, still there 2 outliers among them. 
 
 One of them is Shedinja which can be considered an outlier among outliers because of its HP (being 1). The other one is Stonjourner, outlying because of both its high HP (100) and its high defence (135).
+
+## Future Improvements
+
+* We will use Parsehub to scrape information from Pokémon World Championships official results on pokemon.com from 2014 to 2019 so as to create a new dataset joining and listing the top 8 contestants' teams of masters, senior and junior categories.
